@@ -1,0 +1,12 @@
+name: Coffee Machine
+version: "1.0.0"
+slug: coffee
+description: "BLE + MQTT контроллер кофемашины"
+arch:
+  - aarch64
+  - amd64
+  - armv7
+startup: services
+boot: auto
+options: {}
+schema: {}
